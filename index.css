@@ -17,7 +17,7 @@ body {
     margin:auto;
   }
   
-  .roasting {
+  .sofia {
     margin: 40px auto;
     padding: 20px 30px 40px 30px;
     background-color: #fff;
@@ -25,6 +25,7 @@ body {
     width: 75%;
     border-radius: 50px;
     align-self: center;
+    text-align: center;
   }
 
   #casa {
