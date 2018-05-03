@@ -3,21 +3,18 @@
 }
 
 body {
-    padding: 0;
-    margin: 0;
     background-color: #B4CDCD;
   }
   
-  /** Header styles **/
   .header {
     background-position: center center;
   }
 
   .header img {
-      height: 300px;
-      width: 200px;
-      display:block;
-      margin:auto;
+    height: 300px;
+    width: 200px;
+    display:block;
+    margin:auto;
   }
   
   .roasting {
@@ -28,14 +25,6 @@ body {
     width: 75%;
     border-radius: 50px;
     align-self: center;
-  }
-  
-  .roasting p {
-    text-align: center;
-    line-height: 24px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    font-weight: 400;
   }
 
   .sofiapics {
@@ -52,71 +41,20 @@ body {
   #christmas {
     height: 350px;
     width: 300px;
-  }
-
-  .spectrum div {
-    font: inherit;
-    padding: 0 20px;
-    color: #FFFFFF;
-    overflow: auto;
-    opacity: 0.9;
-  }
+  }  
   
-  .spectrum p {
-    color: #FFFFFF;
-    text-align: left;
-  }
-  
-  /* Roast types */
-  .green {
-    background-color: #c79b97;
-  }
-  
-  .light {
-    background-color: #d89781;
-  }
-  
-  /* Typography */
   h1 {
     color: #fff;
-    font-family: 'Covered By Your Grace', sans-serif;
     font-size: 8vh;
-    line-height: 76px;
-    margin: 0;
     position: relative;
     text-align: center;
-    top: 45%;
   }
   
   h2 {
     color: #ffbac7;
-    font-family: 'Raleway', sans-serif;
     font-size: 28px;
-    font-weight: 500;
-    text-align: left;
+    font-weight: 600;
     text-align: center;
-  }
-  
-  /* Page elements */
-  ul {
-    margin: 0 auto;
-    padding: 0;
-    width: 75%;
-  }
-  
-  li {
-    border-bottom: 1px solid pink;
-    list-style: none;
-    margin: 100px 0px;
-    padding-bottom: 60px;
-  }
-  
-  p {
-    color: #444444;
-    line-height: 32px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    font-weight: 100;
   }
 
   #lastPics {
